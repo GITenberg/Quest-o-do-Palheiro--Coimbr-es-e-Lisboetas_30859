@@ -1,0 +1,27 @@
+_repo: Quest-o-do-Palheiro--Coimbr-es-e-Lisboetas_30859
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Loureiro, Urbano
+    birthdate: 1845
+    deathdate: 1880
+    gutenberg_agent_id: '34863'
+    url: http://www.gutenberg.org/2009/agents/34863
+description: ''
+gutenberg_bookshelf: PT Política e Sociedade
+gutenberg_issued: '2010-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30859'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PQ'
+title: 'Questão do Palheiro: Coimbrões e Lisboetas'
+url: http://www.gutenberg.org/ebooks/30859
