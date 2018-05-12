@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34863'
     url: http://www.gutenberg.org/2009/agents/34863
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30859#Quest-o-do-Palheiro--Coimbr-es-e-Lisboetas
 gutenberg_bookshelf: PT Política e Sociedade
 gutenberg_issued: '2010-01-04'
 gutenberg_type: Text
